@@ -1,0 +1,10 @@
+C:\Users\vinso\Desktop\Azure
+
+https://madeeshafernando.medium.com/installing-apache-tomcat-on-ubuntu-18-04-8cf8bc63993d
+https://cgtechworld.blogspot.com/2018/07/how-to-install-apache-tomcat-in-ubuntu.html
+https://medium.com/@hasnat.saeed/install-tomcat-9-on-ubuntu-18-04-605ca963ffcc
+http://20.25.5.183:8080/
+
+
+
+
